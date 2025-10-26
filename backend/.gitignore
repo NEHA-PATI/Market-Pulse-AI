@@ -1,0 +1,8 @@
+.env
+app/__pycache__/
+app/__pycache__/main.cpython-313.pyc
+app/models/__pycache__/
+app/models/__pycache__/leaderboard.cpython-313.pyc
+app/models/__pycache__/news_cache.cpython-313.pyc
+
+app/scripts/__pycache__/

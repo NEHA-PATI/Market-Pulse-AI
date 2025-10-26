@@ -1,6 +1,8 @@
 fastapi
 uvicorn[standard]
 pydantic
+pydantic-settings
+motor
 pymongo
 yfinance
 requests
